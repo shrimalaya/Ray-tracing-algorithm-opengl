@@ -1,0 +1,17 @@
+//Readme
+
+//Srimalaya Ladha
+//301367941
+//Assignment 3
+
+Information:
+-Use make command along with argument number 1 or 2 or 3 or 4
+-If multiple arguments are entered, only the 1st one will be considered
+-Sample command line argument: ./rayT 2
+
+-Ray tracer works properly up to my knowledge
+-All the scenes have multiple lights
+-Scene 1: the three spheres all have different specular exponents
+-Scene 2 and scene 3 show the desired effects
+-Scene 4: Consists of 6 spheres (4 visible + 2 overhead) and 1 plane
+-all the scenes are included in the main.cpp itself
